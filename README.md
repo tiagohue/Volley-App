@@ -1,16 +1,11 @@
-# myapp
+# Volley App
 
-A new Flutter project.
+Trabalho de Implementação dos layouts de telas em um aplicativo de vôlei.
 
-## Getting Started
+## Navegação entre páginas:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* A tela 1 é a tela em que o app inicial.
+* A tela 2 pode ser acessada clicando no botão "Iniciar" da tela 1.
+* A tela 3 pode ser acessada clicando no botão "Placar Geral" da tela 2.
+* A tela 4 pode ser acessada clicando no botão "Terminar" da tela 3.
+* O design da quinta tela está na pasta assets.
