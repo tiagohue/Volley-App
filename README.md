@@ -1,6 +1,6 @@
 # Volley App
 
-Trabalho de Implementação dos layouts de telas em um aplicativo de vôlei.
+Trabalho de Implementação dos layouts de telas de um aplicativo de vôlei.
 
 ## Navegação entre páginas:
 
